@@ -117,3 +117,4 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Aarush Juneja, Web-developer and Sport Programmer - Dhanbad, India
 * Paul Richter, Student - Freiburg im Breisgau, Germany 
 * Can Yuva, Student - Ankara, Turkey
+*Akhilesh kumar , student - India
